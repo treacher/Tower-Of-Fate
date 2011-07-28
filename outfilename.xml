@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<java version="1.6.0_21" class="java.beans.XMLDecoder"> 
+ <object class="dataStorage.MyClass"> 
+  <int>394534</int> 
+  <void property="arrayList"> 
+   <void index="0"> 
+    <int>10</int> 
+   </void> 
+   <void index="1"> 
+    <int>11</int> 
+   </void> 
+   <void index="2"> 
+    <int>12</int> 
+   </void> 
+  </void> 
+  <void property="prop"> 
+   <int>394534</int> 
+  </void> 
+  <void property="props"> 
+   <array class="int" length="3"> 
+    <void index="0"> 
+     <int>1</int> 
+    </void> 
+    <void index="1"> 
+     <int>2</int> 
+    </void> 
+    <void index="2"> 
+     <int>3</int> 
+    </void> 
+   </array> 
+  </void> 
+ </object> 
+</java> 

@@ -1,0 +1,98 @@
+<?xml version ="1.0"?>
+<gameworld.Room>
+<name>Starting Room</name>
+<description>The starting room for the game</description>
+<id>0</id>
+<gameworld.Level>
+<name>Basement of Initiation</name>
+<description>Reach 30 stength to be able to unlock the next level./nGet strength by leveling off monsters or by buying Scrolls of Strength from the General Supplies Vendor./nYou must then find a boulder which blocks the stairs to the next level, with your newly acquired strength you will be able to move it./nGood Luck...</description>
+<levelNumber>1</levelNumber>
+</gameworld.Level>
+<gameworld.GridLocation>
+<row>0</row>
+<col>4</col>
+<Listgameworld.GameObjects>
+<index0>
+null</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>2</row>
+<col>1</col>
+<Listgameworld.GameObjects>
+<index0>
+<object class="gameworld.Bookcase"> 
+	<String>mouldy bookcase</String>
+	<String>mouldy bookcase</String>
+	<int>0</int>
+	<int><gameworld.ContainerObject>
+<name>mouldy bookcase</name>
+<Listgameworld.GameObjects></Listgameworld.GameObjects>
+</gameworld.ContainerObject>
+</int>
+</object></index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>2</row>
+<col>6</col>
+<Listgameworld.GameObjects>
+<index0>
+<gameworld.ContainerObject>
+<name>Skeleton</name>
+<Listgameworld.GameObjects>
+<index0>
+<gameWorld.Key>
+<name>rusted key</name>
+<description>rusted key</description>
+</gameWorld.Key>
+</index0>
+</Listgameworld.GameObjects>
+</gameworld.ContainerObject>
+</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>3</row>
+<col>4</col>
+<Listgameworld.GameObjects>
+<index0>
+<gameworld.ContainerObject>
+<name>Sarcophy</name>
+<Listgameworld.GameObjects>
+<index0>
+<gameWorld.Key>
+<name>Mysterious skeleto key</name>
+<description>Mysterious skeleton key</description>
+</gameWorld.Key>
+</index0>
+</Listgameworld.GameObjects>
+</gameworld.ContainerObject>
+</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>4</row>
+<col>0</col>
+<Listgameworld.GameObjects>
+<index0>
+null</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>6</row>
+<col>6</col>
+<Listgameworld.GameObjects>
+<index0>
+null</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+<gameworld.GridLocation>
+<row>7</row>
+<col>4</col>
+<Listgameworld.GameObjects>
+<index0>
+null</index0>
+</Listgameworld.GameObjects>
+</gameworld.GridLocation>
+</gameworld.Room>
